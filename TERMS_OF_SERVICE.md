@@ -1,3 +1,8 @@
+---
+title: Terms of Service
+permalink: /terms/
+---
+
 > ⚠️ **DRAFT — has not been reviewed by legal counsel. Do not publish without attorney review.**
 >
 > This document was drafted as a starting point and contains placeholders and choices (notably governing law and the arbitration clause) that an attorney must review before you rely on it.

@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Cohort — Privacy Policy
 
 **Effective date: June 30, 2026**
